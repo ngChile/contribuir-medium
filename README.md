@@ -22,9 +22,10 @@ Las entradas en una publicación poseen **dos estados** posibles:
 
 * **Borrador (Draft)**: Una entrada en borrador solo es visible por los escritores y editores de la publicación de Medium.
 * **Publicada (Published)**: Entrada publicada y visible públicamente.
+
 En una publicación existen diversos actores involucrados:
 
-* **Dueño:** Este rol está en manos de Nicolás Ávila.
+* **Dueño:** Este rol está en manos de Tatiana Molina y Nicolás Ávila.
 * **Editor:** Encargado de la revisión de los artículos antes de ser publicados. Los editores pueden generar comentarios sobre las entradas de una publicación. Los editores pueden publicar una entrada que se encuentre en estado borrador.
 * **Escritor:** Encargado de escribir una entrada, para que los editores puedan revisar y publicarla en la publicación de Medium de HalthDevs.
 
