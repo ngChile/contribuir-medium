@@ -27,7 +27,7 @@ En una publicación existen diversos actores involucrados:
 
 * **Dueño:** Este rol está en manos de Tatiana Molina y Nicolás Ávila.
 * **Editor:** Encargado de la revisión de los artículos antes de ser publicados. Los editores pueden generar comentarios sobre las entradas de una publicación. Los editores pueden publicar una entrada que se encuentre en estado borrador.
-* **Escritor:** Encargado de escribir una entrada, para que los editores puedan revisar y publicarla en la publicación de Medium de HalthDevs.
+* **Escritor:** Encargado de escribir una entrada, para que los editores puedan revisar y publicarla en la publicación de Medium de Angular Chile.
 
 ## ¿Sobre que puedo escribir?
 Nos encantaría escuchar tu experiencia en Angular. Si tienes un tutorial o te gustaría contarnos de algo en particular relacionado con el ecosistema de JavaScript no dudes en contactarte con nosotros!.  
